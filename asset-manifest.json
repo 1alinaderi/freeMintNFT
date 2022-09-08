@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freeMintNFT/static/css/main.449c5f90.css",
+    "main.js": "/freeMintNFT/static/js/main.336a7c65.js",
+    "static/js/787.57dadf66.chunk.js": "/freeMintNFT/static/js/787.57dadf66.chunk.js",
+    "index.html": "/freeMintNFT/index.html",
+    "main.449c5f90.css.map": "/freeMintNFT/static/css/main.449c5f90.css.map",
+    "main.336a7c65.js.map": "/freeMintNFT/static/js/main.336a7c65.js.map",
+    "787.57dadf66.chunk.js.map": "/freeMintNFT/static/js/787.57dadf66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449c5f90.css",
+    "static/js/main.336a7c65.js"
+  ]
+}
